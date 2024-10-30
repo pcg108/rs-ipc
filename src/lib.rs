@@ -1,4 +1,4 @@
-#![feature(proc_macro, conservative_impl_trait, generators)]
+#![feature(proc_macro, conservative_impl_trait, coroutines)]
 
 extern crate libc;
 extern crate serde;
